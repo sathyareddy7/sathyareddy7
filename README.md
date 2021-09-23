@@ -1,4 +1,4 @@
-- 👋 Hi, my name Sathya Reddy
+- 👋 Hi, my name is Sathya Reddy
 - 👀 I’m interested in Javascript and it's frameworks
 - 🌱 I’m currently exploring the world of blockchain
 
