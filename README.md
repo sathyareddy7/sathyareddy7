@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sathyareddy7
-- 👀 I’m interested in Javascript
-- 🌱 I’m currently learning NestJS, Blockchain
+- 👋 Hi, my name Sathya Reddy
+- 👀 I’m interested in Javascript and it's frameworks
+- 🌱 I’m currently exploring the world of blockchain
 
 <!---
 sathyareddy7/sathyareddy7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
